@@ -1,0 +1,260 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SYSTEM%20INITIALIZING...&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED...;WELCOME+TO+MY+DIGITAL+PROFILE;SOFTWARE+DEVELOPER;DATABASE+%7C+LINUX+%7C+WEB+%7C+AUTOMATION;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=statuspage&logoColor=black"/>
+<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF88?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  USER PROFILE :: ONLINE                 ║
+╠══════════════════════════════════════════════════════════╣
+║ Name       : SEU NOME                                    ║
+║ Role       : Software Developer                          ║
+║ Location   : Brazil                                     ║
+║ Focus      : Development • Databases • Linux            ║
+║ Status     : Learning / Building / Improving             ║
+║ Mission    : Turning ideas into functional software     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+## `> about_me`
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+Olá! Sou uma pessoa apaixonada por tecnologia e desenvolvimento de software.
+
+Atualmente estou aprimorando meus conhecimentos em **programação, bancos de dados, Linux, desenvolvimento web e automação**, buscando transformar conhecimento teórico em projetos práticos.
+
+Meu objetivo é evoluir constantemente, desenvolver soluções úteis e construir uma base sólida para minha carreira na área de tecnologia.
+
+```bash
+$ ./start_learning.sh
+
+[✓] Programming
+[✓] Databases
+[✓] Linux
+[✓] Git & GitHub
+[✓] Web Development
+[>] Software Engineering
+[>] Automation
+[>] Artificial Intelligence
+```
+
+---
+
+# `> tech_stack`
+
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,rust,js,html,css,sql" />
+
+</p>
+
+### Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+</p>
+
+### Operating Systems
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+
+</p>
+
+### Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions,docker" />
+
+</p>
+
+---
+
+# `> tools`
+
+| Tool                 | Purpose                             |
+| -------------------- | ----------------------------------- |
+| `Git`                | Version control                     |
+| `GitHub`             | Repositories & collaboration        |
+| `VS Code`            | Development environment             |
+| `Linux`              | Development & system administration |
+| `Docker`             | Containers                          |
+| `MySQL / PostgreSQL` | Database management                 |
+| `GitHub Actions`     | Automation & CI/CD                  |
+
+---
+
+# `> projects`
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2"/>
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2"/>
+</a>
+
+</div>
+
+### Featured Projects
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ PROJECT_01                                                  │
+│ ├── Description : Seu projeto principal                    │
+│ ├── Stack       : Python / SQL / Git                        │
+│ └── Status      : ACTIVE                                    │
+│                                                             │
+│ PROJECT_02                                                  │
+│ ├── Description : Segundo projeto                           │
+│ ├── Stack       : JavaScript / HTML / CSS                   │
+│ └── Status      : DEVELOPMENT                               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> current_objectives`
+
+```bash
+╭──────────────────────────────────────────────────────────────╮
+│                    CURRENT OBJECTIVES                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ [██████████████████░░] 90%  Git & GitHub                    │
+│ [████████████████░░░░] 80%  Databases                       │
+│ [███████████████░░░░░] 75%  Linux                           │
+│ [██████████████░░░░░░] 70%  Web Development                 │
+│ [███████████░░░░░░░░░] 55%  Rust                            │
+│ [████████░░░░░░░░░░░░] 40%  Automation                      │
+│ [██████░░░░░░░░░░░░░░] 30%  Artificial Intelligence         │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+```text
+> SYSTEM MESSAGE
+
+Learning mode:      ACTIVE
+Building mode:      ACTIVE
+Problem solving:    ACTIVE
+Coffee level:       ██████████████████░░ 90%
+
+NEXT TARGET:
+→ Build
+→ Test
+→ Deploy
+→ Repeat
+```
+
+---
+
+# `> github_statistics`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+# `> activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `> achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+---
+
+# `> contribution_matrix`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# `> social_network`
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF006E"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║              SYSTEM STATUS: ONLINE                   ║
+║                                                      ║
+║       "Code. Learn. Build. Improve. Repeat."        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
